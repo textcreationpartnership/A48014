@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a lawyer in the countrey to a member of Parliament, or, Indemnity the effect of vacancy</title>
+            <author>Lawyer in the countrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48014</idno>
+            <idno type="STC">Wing L1408</idno>
+            <idno type="STC">ESTC R9346</idno>
+            <idno type="EEBO-CITATION">13111115</idno>
+            <idno type="OCLC">ocm 13111115</idno>
+            <idno type="VID">97634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a lawyer in the countrey to a member of Parliament, or, Indemnity the effect of vacancy</title>
+                  <author>Lawyer in the countrey.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:97634:1"/>
+            <head>A LETTER FROM A LAWYER in the COUNTREY TO A <hi>Member of Parliament:</hi> OR, <hi>INDEMNITY</hi> the Effect of <hi>VACANCY.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Remember in one of your former Letters you were pleaſed to deſire me to ſend you the general Opinion of the Countrey concerning the Vacancy of the Throne, and how they ſeem'd to ſtand affected upon it: And I then return'd you in Anſwer, That your Proceedings therein were very well ap<g ref="char:EOLhyphen"/>proved of; for it could not be imagined that ſo many of the Nobility and Gen<g ref="char:EOLhyphen"/>try would have been ſo ready to have hazarded their Lives and Fortunes as they did without a juſt and reaſonable Cauſe; nor that ſo many Gentlemen of Eſtate and Quality would have appeared in this Parliament, if they had not been en<g ref="char:EOLhyphen"/>tirely convinced of the ſafety and innocency of their appearance; neither the People of <hi>England</hi> who choſe them, nor the Perſons elected, could be imagined to admit themſelves guilty of High-Treaſon, the greateſt Crime of the Law: and if there had not been a Vacancy of the Throne, by the late King's Abdica<g ref="char:EOLhyphen"/>tion of the Government, no leſs a Crime than High-Treaſon could have been imputed to them. But ſince that Point hath been ſo ſolemnly determined, the Nation is entirely ſatisfied, that the Parliament have thereby ſet forth a Declara<g ref="char:EOLhyphen"/>tion of Indemnity to Themſelves and all Others; and therefore it was that by the univerſal Conſent of all People, Their Majeſties King <hi>WILLIAM</hi> and Queen <hi>MARY</hi> were proclaimed in all places with ſo much joy and ſatisfaction: There was ſomething in that Vote, that pleaſed all manner of perſons, as ſoon as they had a right Notion of it; they lookt upon the Nation as newly Baptized from all its Sins and Corruptions, and that every Man was to begin the courſe of his Life upon a new Baſis and Foundation; when they ſaw no publick accuſation was like to happen, every Man began to condemn himſelf; ſome their Ambition, Vanity and Pride that caſt a Miſt before their Eyes; others their miſtaken in<g ref="char:EOLhyphen"/>tereſt and fears: ſome began to review the Principles of Loyalty and Govern<g ref="char:EOLhyphen"/>ment which they had imbibed from their Infancy, under the Doctine of Paſſive-
+<pb n="2" facs="tcp:97634:2"/>Obedience; others condemned their unfortunate compliance of <hi>doing evil, that good might come of it:</hi> but all looked back with Safety, as well as reſolution of Amendment, upon their paſt Errors. Thoſe who never ſaw any Changes of Government, and had little experience in ſuch Affairs, thought themſelves ſuf<g ref="char:EOLhyphen"/>ficiently provided with a Stock of bought Wit, to make them good Subjects for the Publick, as well as cautious and prudent as to themſelves. Thus whil'ſt every Body reflected upon their own Miſcarriages, they could not but ſee that a few Evil Miniſters at Helm had been the cauſe of all this Miſery, both to <hi>Themſelves</hi> in particular, as well as the <hi>Nation</hi> in general; and there<g ref="char:EOLhyphen"/>fore ſome extraordinary Act of Attainder againſt thoſe Evil Councellors, was all that was expected, or can be approved of by the generality of the People of <hi>England:</hi> And the rather, becauſe it is ſo publickly known with what Zeal His Majeſty hath recommended a moſt General and Expreſs <hi>Act of Oblivion</hi> for all his Subjects, with Exceptions only of ſuch Evil Councellors as you in your great Prudence and Mercy ſhould think fit. Matters being in this poſture with us in the Countrey, and ſuch being the common expectations of all Men, I muſt confeſs I found that general Vote againſt thoſe that omitted to take the Oaths, did not only affect the Perſons concerned, who, I'll aſſure you, are very numerous, and have many Friends and Relations that pity their Caſe: but I perceived all ſorts of People concerned at it; for they looked up<g ref="char:EOLhyphen"/>on it as a leading Card to their own Miſcarriages, tho of another nature: All thoſe that were concerned ſo much as in <hi>Addreſſes</hi> and <hi>Abhorrences</hi> in the Reign of King <hi>Charles</hi> the Second, who are a great part of the Church of <hi>England;</hi> and all thoſe that ſigned <hi>Addreſſes,</hi> or other Papers for taking away the <hi>Teſt</hi> and <hi>Penal Laws,</hi> who are a great part of the <hi>Diſſenters,</hi> (not to mention a mul<g ref="char:EOLhyphen"/>titude of greater Offenders, who cannot expect to fare better) are terribly afraid of theſe Proceedings; and where there is <hi>Fear,</hi> there you will always find <hi>Hatred</hi> and <hi>Averſion.</hi> So that I may ſafely ſay, That the Conſequences of theſe things are dangerous at ſuch a critical juncture of time; and tho the evil effects thereof may not be ſo viſible to the World, yet I fear this Nation may too ſoon be ſenſible of them. Therefore it is that I have thought fit to put you in mind of that Abdication and Vacancy, which being voted by you as a matter neceſſary both for your own particular Indemnity, as well as the general Intereſt of the Nation, the Benefit thereof cannot with<g ref="char:EOLhyphen"/>out ſome Inequality (not to ſay more) be denied to the more general Miſ<g ref="char:EOLhyphen"/>carriages and Offences of the Nation. But there are ſome zealous Men in the World, who being lately freed from ſevere Uſage themſelves, are not con<g ref="char:EOLhyphen"/>tented with Revenge againſt their particular Adverſaries, unleſs they can in<g ref="char:EOLhyphen"/>volve all Mankind (Friends as well as Foes) in Troubles and Afflictions. And from ſuch Men as theſe, who are neither willing to admit of this, nor any other Act of Indemnity, I meet with ſeveral Objections, which I thought fit to give a ſudden Anſwer to, for your private ſatisfaction; and that with all the ſubmiſſion and deference imaginable to the VViſdom of our Superiours at this time aſſembled in Parliament.</p>
+            <p>Object. I. <hi>That nothing is more common in our Law-books, than to find Offences committed in one King's Reign, to be called in queſtion and puniſhed in the Reign of his Succeſſors; and that Their preſent Majeſties (whom God long preſerve) being Crowned King and Queen of</hi> England, <hi>&amp;c. there is the ſame reaſon in this, as in all other Caſes.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> There are indeed many Caſes and Inſtances of that kind; but the rea<g ref="char:EOLhyphen"/>ſon why there may be a Retroſpect in ſuch Caſes, is a clear Illuſtration why there may not be in this. There is as much difference between the two Caſes, as there is between a Deſcent, and Purchaſe at Common-Law: The Heir by Deſcent may diſtrain upon the Tenant for Rent, partly incurred in the Life of the Anceſtor; but a perſon that comes in by Purchaſe, cannot. The Law caſts a Freehold upon the Heir by Deſcent, before entry; upon a Purchaſer it doth not. But in the Caſe of the Crown, there ſeems a much greater difference; for in
+<pb n="3" facs="tcp:97634:2"/>the Caſe of a Deſcent to the Crown, the ſame Politick Capacity remains <hi>in eſſe,</hi> tho in another perſon; and therefore it is ſaid in ſuch a Caſe, <hi>That the King never dies,</hi> but he is ſaid only <hi>demittere Coronam</hi> upon the next Heir; for in ſuch a Caſe the Law allows of no <hi>Interval,</hi> or <hi>Inter-Regnum,</hi> but the Regal Power is immediately devolved upon the next Heir by conſtruction of Law. And ſince the Politick Capacity remains without interruption, and the Execution (or puniſhing Power) of the Law is lodged in the King, by reaſon of the Politick Capacity; and ſince all Offences are committed <hi>contra Coronam &amp; Dignitatem ſuam,</hi> againſt the King by reaſon of his Politick Capacity, and not by reaſon of his Natural; that is, againſt him <hi>quatenus Rex,</hi> and not <hi>quatenus Homo:</hi> where the Regal Power continues without interruption, and therein the Execu<g ref="char:EOLhyphen"/>tive Power of the Law; there Offences againſt that Power do continue alſo, and may be puniſhed.</p>
+            <p>But in this preſent Caſe, where there is a total Vacancy of the Throne by the late King's Abdication of the Government, both the Natural and Politick Ca<g ref="char:EOLhyphen"/>pacity, and therein the entire Subject of the executive (or puniſhing) Power of the Law, is in Judgment and Conſtruction of Law totally merged and ex<g ref="char:EOLhyphen"/>tinct by leſſer and Devolution of the Government upon the People; and where there is a total failure both of the Politick Capacity, and of the Executive (or pu<g ref="char:EOLhyphen"/>niſhing) Power, there muſt, by conſequence, be an Indemnity to all Offenders.</p>
+            <p>Where there is a total Vacancy of the Throne, or Regal Power, there muſt be a Vacancy of Offences againſt that Power.</p>
+            <p>And the late King <hi>James</hi> could not Abdicate the Government, but he muſt alſo Abdicate that which was inſeparably annexed to it, <hi>viz.</hi> the Executive Power of the Law, unleſs you will ſupport as great a Miracle as <hi>Tranſubſtantiation,</hi> by preſerving an Accident, or abſtracted Power, without its Subject.</p>
+            <p>Object. II. <hi>There are ſome Offences which are not only againſt the King, but be<g ref="char:EOLhyphen"/>ing againſt the Fundamental Conſtitution of the Government, are Offences againſt the People alſo; and thoſe Offences may remain, notwithſtanding an Abdication of the Regal and Puniſhing Power.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> What theſe Offences againſt the People are, we do not find determined in our Books of the Law; but this I have often read, That the King may par<g ref="char:EOLhyphen"/>don all Offences whatſoever: And where the King may Abdicate the Govern<g ref="char:EOLhyphen"/>ment from his Heirs, tho he could not diſpoſe of it from them, <hi>à fortiori,</hi> he may Abdicate the puniſhment of all Offences, where he had a right to par<g ref="char:EOLhyphen"/>don them.</p>
+            <p>But <hi>ſecondly,</hi> Let the Offences be of what nature they will, if they muſt be pu<g ref="char:EOLhyphen"/>niſhed at this day, the Indictment muſt run in this manner, for inſtance, in the Caſe of Treaſon.</p>
+            <p>
+               <hi>Quod</hi> A. B. <hi>nuper de</hi> L. <hi>gen' ut falſus proditor' contra Illuſtriſſimum &amp; Chriſtia<g ref="char:EOLhyphen"/>niſſimum Principem</hi> Jacobum <hi>ſecundum nuper</hi> Angl' <hi>&amp;c. Regem, ad tunc ſupremum &amp; naturalem Dominum ſuum, timorem Dei non habens, nec debitam legianciam ſuam pon<g ref="char:EOLhyphen"/>derans, ſed inſtigatione Diabolica ſeductus cordialem dilectionem &amp; veram &amp; debi<g ref="char:EOLhyphen"/>tam obedientiam quam verus &amp; fidelis ſubditus dict' nuper Regis erga ipſum Regem gereret &amp; de jure geſſiſſe tenebatur, penitus ſubſtrahere delere &amp; extinguere intendens (tali die anno &amp; loco) falſe malitioſe &amp; proditorie conſpiravit imaginatus fuit circumivit &amp; compaſſivit dictum nuper Regem interficere, &amp; ad mortem &amp; finalem deſtructionem adducere,</hi> and ſo forth. And then concludes, <hi>Contra legiantiae ſuae debitum ac contra pacem dicti nuper Regis Coronam &amp; Dignitatem ſuam.</hi>
+            </p>
+            <p>The like form, <hi>mutatis mutandis,</hi> is to be obſerved in all leſſer Offences. Now, if no ſuch Offence can be puniſhed but by Indictment in this form, for com<g ref="char:EOLhyphen"/>mitting ſuch a Fact againſt the Peace of the late King <hi>James,</hi> his Crown and Dig<g ref="char:EOLhyphen"/>nity, ſince his Crown and Dignity is totally vacated and extinct, how can any Offences remain?</p>
+            <pb n="4" facs="tcp:97634:3"/>
+            <p>Object. III. <hi>That by a late Act of Parliament for reviving of Actions and Proceſſes, and for ſupplying other Defects relating to Proceedings at Law, it's provided, That in Indictments, Informations, or Actions, wherein Concluſions uſed to be</hi> [contra pacem Domini Regis] <hi>to conclude</hi> [contra pacem Regni,] <hi>and the Indict<g ref="char:EOLhyphen"/>ments ſhall be good, tho the words</hi> [Domini Regis Coronam &amp; Dignitatem ſuas] <hi>be omitted.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> That this Statute extends only to Offences committed between the 11th of <hi>December, Anno</hi> 1688. and before the 13th day of <hi>February</hi> fol<g ref="char:EOLhyphen"/>lowing, and not to any Offences committed before the late King's departure, nor after the proclaiming of Their preſent Majeſties: So that this Statute can be no real Objection, but on the contrary may rather ſeem to enforce the prece<g ref="char:EOLhyphen"/>dent Argument. Nay, here ſeems an Authority of this preſent Parliament in this Point; for they agree, and have thereby determined, That after the Abdi<g ref="char:EOLhyphen"/>cation of the Government, all Indictments <hi>contra pacem Domini Regis, Coronam &amp; Dignitatem ſuas,</hi> are void: But at this day no Offences committed before the late King's departure can be puniſhed, but by ſuch an Indictment or Infor<g ref="char:EOLhyphen"/>mation; therefore they cannot be puniſhed at all.</p>
+            <p>Object. IV. <hi>That this Opinion is of the firſt Impreſſion, and only promoted by ſome Guilty Lawyer, one of the Ringleaders of all our late Miſeries; and that it would be inconvenient that thoſe Evil Councellors, who by their Advice had almoſt ſacrific'd the Nation to</hi> Popery <hi>and</hi> Slavery, <hi>ſhould reap the benefit of ſuch an Indemnity.</hi>
+            </p>
+            <p>
+               <hi>Reſp</hi> It's not deſired that they ſhould; but ſuch as the Parliament in their great Wiſdom ſhall think fit, are by all People freely ſubmitted to a Bill of At<g ref="char:EOLhyphen"/>tainder. The Repreſentatives of the Nation may, if they pleaſe, ſupply the defect of a Jury; and, after hearing the Parties in their own Defence, in<g ref="char:EOLhyphen"/>flict what Puniſhment ſeems juſt and equitable in their great Judgments upon particular perſons.</p>
+            <p>This is a Lawyer, you well know, intends nothing but the publick Good, and humbly conceives this Opinion is as ancient as the other upon which it's ground<g ref="char:EOLhyphen"/>ed: but having for ſome years withdrawn himſelf from Practice, humbly begs a favourable Conſtruction of ſuch an haſty Letter.</p>
+            <p>As to all thoſe worthy Members of your acquaintance, that neglect their own Concerns for the publick Service of the Nation, you may aſſure them, That nothing is ſo much wanting amongſt us in the Countrey, as an expreſs Act of Indemnity, which the People do humbly hope that Their Majeſties in their great Goodneſs and Clemency will not permit to be any longer delayed, eſpecially ſince your own Proceedings give them ſuch a Title to it. When that is paſt, you will find <hi>England</hi> will be united, the Throne eſtabliſhed, and no hopes left for <hi>France;</hi>
+            </p>
+            <p>
+               <hi>Et praeſtat</hi> CAUTELA <hi>quam</hi> MEDELA.</p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Janeway,</hi> in <hi>Queens-head-Alley</hi> in <hi>Pater-noſter-Row.</hi> MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
